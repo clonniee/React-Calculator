@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: 'React-Calculator',
+  base: '/React-Calculator/',
   plugins: [react(), tailwindcss()],
 })
