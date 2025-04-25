@@ -29,6 +29,6 @@ To get started with the project, follow these steps:
 
 4. ## **Build**:
     To build the project for production.
-
+    ```bash
     npm run build
-    
+    ```
